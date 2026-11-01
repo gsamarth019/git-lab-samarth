@@ -12,3 +12,8 @@ Basic git
 ## projects
 
 kabadiwala: in this project , i was looking forward to connect local scrap collector with govt official scrap collecter.
+
+## Social links
+
+GitHub:https://github.com/gsamarth019
+linkdin:https://www.linkedin.com/feed/foryou/
